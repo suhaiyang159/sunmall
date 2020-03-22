@@ -4,6 +4,7 @@ spring:
   cloud:
     nacos:
       discovery:
+        #namespace: 33c2ed0f-2ff6-4cd7-8ada-3c29d046ac2e
         server-addr: 127.0.0.1:8848
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
