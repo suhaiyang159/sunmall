@@ -12,11 +12,7 @@
     <modules>
         <module>gmall-core</module>
         <module>gmall-admin</module>
-      <!--  <module>sunmall-pms</module>
-        <module>sunmall-sms</module>
-        <module>sunmall-oms</module>
-        <module>sunmall-ums</module>
-        <module>sunmall-wms</module>-->
+
     </modules>
 
 </project>
